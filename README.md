@@ -1,11 +1,12 @@
 
+@'
 # Hi there! 👋 I'm Manoj Kumar
 
 🎓 Computer Science Engineering Student
 
-## 💻 LeetCode Manoj_11
+## 💻 LeetCode Profile
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Manoj_11-orange?logo=leetcode)](https://leetcode.com/u/YOUR_USERNAME/)
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-My%20Profile-orange?logo=leetcode)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Manoj_11?theme=dark&ext=heatmap)
+'@ | Set-Content README.md -Encoding utf8
