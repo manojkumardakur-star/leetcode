@@ -3,7 +3,8 @@
 
 🎓 Computer Science Engineering Student
 
-## 💻 LeetCode Profile
+## 💻 LeetCode Manoj_11
+
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-My%20Profile-orange?logo=leetcode)
 
